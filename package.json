@@ -1,0 +1,19 @@
+{
+  "name": "tchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fslink/tchat.git"
+  },
+  "author": "fslink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fslink/tchat/issues"
+  },
+  "homepage": "https://github.com/fslink/tchat#readme"
+}
